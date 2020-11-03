@@ -1,0 +1,23 @@
+{
+  "name": "tarefy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samukcosta/tarefy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samukcosta/tarefy/issues"
+  },
+  "homepage": "https://github.com/samukcosta/tarefy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  }
+}
