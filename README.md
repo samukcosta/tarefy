@@ -45,10 +45,3 @@ $ npm start
 
 # O servidor inciará na porta:8000 - acesse http://localhost:8000
 ```
-
-
-## 📝 Licença
-
-Este projeto esta sobe a licença MIT.
-
-Feito com ❤️ por Samuel Costa 👋🏽 [Entre em contato!](https://www.linkedin.com/in/costa-samuel/)
